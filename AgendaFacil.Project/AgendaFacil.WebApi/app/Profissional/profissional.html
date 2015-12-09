@@ -1,0 +1,138 @@
+﻿<div class="row">
+    <div ng-include="'app/partials/navbar.html'"></div>
+    <div class="">
+        <div class="col-md-offset-8" ng-controller="AgendaCtrl">
+            <button style="margin-bottom: 10px; margin-left: 52px; color:#fff" class="btn btn-sm btn-info" ng-click="NovoAgendamento()"><i class="fa fa-plus"></i>Novo Agendamento</button>
+            <a style="color:#fff; margin-bottom: 10px;" class="btn btn-sm btn-warning" href="#/agenda"><i class="fa fa-file-text-o"></i>Consultar Agenda</a>
+        </div>
+    </div>
+</div>
+<div ng-include="'app/partials/navbar-vertical.html'"></div>
+
+<div class="col-md-9 content">
+
+    <div class="bb-alert alert alert-info" id="alertClass" style="display:none;">
+        <span></span>
+    </div>
+    <div class="row">
+    </div>
+    <div class="panel panel-default ">
+        <div class="panel-heading" style="background-image:none">
+            Filtro de Busca
+        </div>
+        <div class="panel-body ">
+            <div class="form-group input-group">
+                <input type="text" class="form-control" placeholder="Procurar por Nome" ng-model="filtroProfissionais">
+                <span class=" input-group-btn"><button class="btn btn-default" id="searchButton" type="button" style="background-image:none;"><i class="fa fa-search"></i></button></span>
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading" style="background-image:none">
+            Lista de Profissionais
+            <div class="pull-right">
+                <div class="btn-group">
+                    <input type="button" ng-click="limparCampos()" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#modShow" value="Novo Profissional" />
+                </div>
+            </div>
+        </div>
+        <div class="panel-body">
+            <div class="dataTable_wrapper">
+                <table class="table table-striped" id="tabelaProfissionais">
+                    <thead>
+                        <tr>
+                            <th>NOME</th>
+                            <th>TELEFONE</th>
+                            <th>EMAIL</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr dir-paginate="item in listaProfissionais | itemsPerPage: 10 | filter: filtroProfissionais">
+                            <td>{{item.Nome}}</td>
+                            <td>{{item.Telefone}}</td>
+                            <td>{{item.Email}}</td>
+                            <td>
+                                <input type="button" ng-click="getProfissionalById(item.ProfissionalId)" class="btn btn-info btn-xs" value="Informações" data-toggle="modal" data-target="#modShow" />
+                            </td>
+                        </tr>
+                    </tbody>
+
+                </table>
+                <dir-pagination-controls></dir-pagination-controls>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--MODAL CADASTRO-->
+<div class="container">
+    <div class="modal fade" id="modShow" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h3>Informações do Profissional</h3>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-lg-10 formContent">
+                            <div class="panel panel-default">
+                                <div class="panel-body">
+                                    <div class="col-lg-12">
+                                        <form name="form" novalidate>
+                                            <div class="form-group">
+                                                <div class="input-group">
+                                                    <span class="input-group-addon" id="basic-addon1"><i class="fa fa-user"></i></span>
+                                                    <input type="text" class="form-control" placeholder="Nome" name="Nome" aria-describedby="basic-addon1" ng-model="profissional.Nome" required />
+                                                    <span style="color:red" ng-show="form.Nome.$dirty && form.Nome.$invalid">
+                                                        <span ng-show="form.Nome.$error.required">Nome do Profissional é Obrigatório.</span>
+                                                    </span>
+                                                </div>
+                                                <div class="input-group">
+                                                    <span class="input-group-addon" id="basic-addon1"><i class="fa fa-home"></i></span>
+                                                    <input type="text" class="form-control" placeholder="Endereço" name="End" aria-describedby="basic-addon1" ng-model="profissional.Endereco" required />
+                                                    <span style="color:red" ng-show="form.End.$dirty && form.End.$invalid">
+                                                        <span ng-show="form.End.$error.required">Endereço do Profissional é Obrigatório.</span>
+                                                    </span>
+                                                </div>
+                                                <div class="input-group">
+                                                    <span class="input-group-addon" id="basic-addon1"><i class="fa fa-envelope-o"></i></span>
+                                                    <input type="text" class="form-control" placeholder="@Email" name="Email" aria-describedby="basic-addon1" ng-model="profissional.Email" required />
+                                                    <span style="color:red" ng-show="form.Email.$dirty && form.Email.$invalid">
+                                                        <span ng-show="form.Email.$error.required">Email do Profissional é Obrigatório.</span>
+                                                    </span>
+                                                </div>
+                                                <div class="input-group">
+                                                    <span class="input-group-addon" id="basic-addon1"><i class="fa fa-phone"></i></span>
+                                                    <input type="text" class="form-control" placeholder="Telefome" name="Tel" aria-describedby="basic-addon1" ng-model="profissional.Telefone" required />
+                                                    <span style="color:red" ng-show="form.Tel.$dirty && form.Tel.$invalid">
+                                                        <span ng-show="form.Tel.$error.required">Telefone do Profissional é Obrigatório.</span>
+                                                    </span>
+                                                </div>
+                                                <div class="input-group">
+                                                    <span class="input-group-addon" id="basic-addon1"><i class="fa fa-calendar-o"></i></span>
+                                                    <input type="date" class="form-control" placeholder="Data Nascimento" name="Dtnasc" aria-describedby="basic-addon1" ng-model="profissional.DataNascimento" required />
+                                                    <span style="color:red" ng-show="form.Dtnasc.$dirty && form.Dtnasc.$invalid">
+                                                        <span ng-show="form.Dtnasc.$error.required">Data de Nascimento é Obrigatória.</span>
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                          
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <input type="submit" class="btn btn-success" ng-click="submit(profissional)" ng-model="profissional" ng-disabled="form.$invalid" value="Cadastrar" />
+                    <input type="submit" class="btn btn-danger" ng-click="bloquearProfissional(profissional)" ng-model="profissional" ng-show="profissional.ProfissionalID" value="Bloquear" />
+                    <input type="button" class="btn btn-default" value="Voltar" data-dismiss="modal" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--MODAL CADASTRO-->

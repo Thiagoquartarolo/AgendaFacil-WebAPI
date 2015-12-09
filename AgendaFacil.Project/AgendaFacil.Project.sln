@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{D2E8046B-E8BD-47CE-8011-22A0B6E9210E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{372B9E64-6907-475A-A4F5-051A21DB58E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{E3C8024C-7495-4EBC-9192-10F1ECACB015}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", "{435691F0-4253-4BF4-A693-3574BA8C14A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaFacil.WebApi", "AgendaFacil.WebApi\AgendaFacil.WebApi.csproj", "{9261FEFF-CD8D-43A3-826F-29C8DBCACEDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaFacil.Domain", "AgendaFacil.Domain\AgendaFacil.Domain.csproj", "{3DCCD73B-3740-4557-A4B1-75F4C59EF8BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaFacil.Repository", "AgendaFacil.Repository\AgendaFacil.Repository.csproj", "{7C439F68-5EE3-4B9A-9B6C-3BAAC89317FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Services", "2 - Services", "{2F44E102-3843-4249-BCFD-75344E53924E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaFacil.Services", "AgendaFacil.Services\AgendaFacil.Services.csproj", "{B74223F6-E5D7-4BD9-8CC0-05A183529A2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9261FEFF-CD8D-43A3-826F-29C8DBCACEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9261FEFF-CD8D-43A3-826F-29C8DBCACEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9261FEFF-CD8D-43A3-826F-29C8DBCACEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9261FEFF-CD8D-43A3-826F-29C8DBCACEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DCCD73B-3740-4557-A4B1-75F4C59EF8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCCD73B-3740-4557-A4B1-75F4C59EF8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCCD73B-3740-4557-A4B1-75F4C59EF8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCCD73B-3740-4557-A4B1-75F4C59EF8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C439F68-5EE3-4B9A-9B6C-3BAAC89317FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C439F68-5EE3-4B9A-9B6C-3BAAC89317FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C439F68-5EE3-4B9A-9B6C-3BAAC89317FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C439F68-5EE3-4B9A-9B6C-3BAAC89317FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B74223F6-E5D7-4BD9-8CC0-05A183529A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74223F6-E5D7-4BD9-8CC0-05A183529A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74223F6-E5D7-4BD9-8CC0-05A183529A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74223F6-E5D7-4BD9-8CC0-05A183529A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{435691F0-4253-4BF4-A693-3574BA8C14A1} = {E3C8024C-7495-4EBC-9192-10F1ECACB015}
+		{9261FEFF-CD8D-43A3-826F-29C8DBCACEDE} = {D2E8046B-E8BD-47CE-8011-22A0B6E9210E}
+		{3DCCD73B-3740-4557-A4B1-75F4C59EF8BE} = {372B9E64-6907-475A-A4F5-051A21DB58E6}
+		{7C439F68-5EE3-4B9A-9B6C-3BAAC89317FA} = {435691F0-4253-4BF4-A693-3574BA8C14A1}
+		{B74223F6-E5D7-4BD9-8CC0-05A183529A2D} = {2F44E102-3843-4249-BCFD-75344E53924E}
+	EndGlobalSection
+EndGlobal

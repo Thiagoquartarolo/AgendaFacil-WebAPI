@@ -1,0 +1,143 @@
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.dll
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.pdb
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.csprojResolveAssemblyReference.cache
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.dll
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.pdb
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.dll
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.dll
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.pdb
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.xml
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.dll
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.pdb
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.dll
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.pdb
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.dll
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.pdb
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.dll
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.pdb
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.dll
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.dll
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.pdb
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.xml
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.dll
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.pdb
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.dll
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.pdb
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.dll
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.dll
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.pdb
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.xml
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.csprojResolveAssemblyReference.cache
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.dll
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.pdb
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.dll
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.pdb
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.dll
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.dll
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.pdb
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.xml
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.csprojResolveAssemblyReference.cache
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.dll
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.pdb
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.dll
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.pdb
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.dll
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.dll
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.pdb
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.xml
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.csprojResolveAssemblyReference.cache
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.dll
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.pdb
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.dll
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.pdb
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.dll
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.pdb
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.dll
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.pdb
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.dll
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.pdb
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.dll
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.pdb
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.dll
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.pdb
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.dll
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.pdb
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.dll
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.dll
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.pdb
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.xml
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.csprojResolveAssemblyReference.cache
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.dll
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.pdb
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.dll
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.pdb
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.dll
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.dll
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.pdb
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.xml
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.csprojResolveAssemblyReference.cache
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.dll
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.pdb
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.dll
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Services.pdb
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.dll
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.dll
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\AgendaFacil.Repository.pdb
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.xml
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.csprojResolveAssemblyReference.cache
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.dll
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Services\obj\Debug\AgendaFacil.Services.pdb

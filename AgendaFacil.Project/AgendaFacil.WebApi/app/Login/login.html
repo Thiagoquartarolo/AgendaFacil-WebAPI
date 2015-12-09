@@ -1,0 +1,106 @@
+﻿<!--<div class="container">
+    <div class="row">
+        <div class="col-md-4 col-md-offset-4" style="margin-top:150px">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Bem vindo ao Agenda Fácil</h3>
+                </div>
+                <div class="panel-body">
+                    <form accept-charset="UTF-8" role="form" name="loginForm">
+                        <fieldset>
+                           
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="yourmail@example.com" ng-model="login.Email">
+                            </div>
+                            <div class="form-group">
+                                <input type="password" class="form-control" placeholder="Password" ng-model="login.Senha">
+                            </div>
+                            <input type="submit" class="btn btn-lg btn-success btn-block" value="Login" ng-disabled='vm.isBusy || loginForm.$invalid'
+                                   ng-click='authenticate(login)'>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>-->
+
+
+<style>
+.jumbotron {
+	text-align: center;
+	width: 30rem;
+	border-radius: 0.5rem;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	position: absolute;
+	margin: 4rem auto;
+	background-color: #fff;
+	padding: 2rem;
+}
+
+.container .glyphicon-list-alt {
+	font-size: 10rem;
+	margin-top: 3rem;
+	color: #f96145;
+}
+
+input {
+	width: 100%;
+	margin-bottom: 1.4rem;
+	padding: 1rem;
+	background-color: #ecf2f4;
+	border-radius: 0.2rem;
+	border: none;
+}
+h2 {
+	margin-bottom: 3rem;
+	font-weight: bold;
+	color: #ababab;
+}
+.btn {
+	border-radius: 0.2rem;
+}
+.btn .glyphicon {
+	font-size: 3rem;
+	color: #fff;
+}
+.full-width {
+	background-color: #8eb5e2;
+	width: 100%;
+	-webkit-border-top-right-radius: 0;
+	-webkit-border-bottom-right-radius: 0;
+	-moz-border-radius-topright: 0;
+	-moz-border-radius-bottomright: 0;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+.box {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	margin-bottom: 3rem;
+	margin-left: 3rem;
+	margin-right: 3rem;
+}
+</style>
+
+ <!---->
+<div class="jumbotron" style="height:70%">
+    <div class="container">
+        <span class="glyphicon glyphicon-list-alt"></span>
+        <h2>Agenda Fácil</h2>
+        <form accept-charset="UTF-8" role="form" name="loginForm">
+            <fieldset>
+                <div class="box">
+                    <input type="text" placeholder="email" ng-model="login.Email">
+                    <input type="password" placeholder="senha" ng-model="login.Senha">
+                    <button class="btn btn-default full-width" ng-disabled='vm.isBusy || loginForm.$invalid' ng-click='authenticate(login)' style="background-image:none"><span class="glyphicon glyphicon-ok"></span></button>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</div>

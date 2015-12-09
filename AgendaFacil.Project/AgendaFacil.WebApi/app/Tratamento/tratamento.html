@@ -1,0 +1,125 @@
+﻿<div class="row">
+    <div ng-include="'app/partials/navbar.html'"></div>
+    <div class="">
+        <div class="col-md-offset-8" ng-controller="AgendaCtrl">
+            <button style="margin-bottom: 10px; margin-left: 52px; color:#fff" class="btn btn-sm btn-info" ng-click="NovoAgendamento()"><i class="fa fa-plus"></i>Novo Agendamento</button>
+            <a style="color:#fff; margin-bottom: 10px;" class="btn btn-sm btn-warning" href="#/agenda"><i class="fa fa-file-text-o"></i>Consultar Agenda</a>
+        </div>
+    </div>
+</div>
+<div ng-include="'app/partials/navbar-vertical.html'"></div>
+
+<div class="col-md-9 content">
+
+
+ 
+    <div class="bb-alert alert alert-info" id="alertClass" style="display:none;">
+        <span>The examples populate this alert with dummy content</span>
+    </div>
+    <div class="row">
+    </div>
+    <div class="panel panel-default ">
+        <div class="panel-heading" style="background-image:none">
+            Filtro de Busca
+        </div>
+        <div class="panel-body ">
+            <div class="form-group input-group">
+                <input type="text" class="form-control" id="pesquisa" placeholder="Procurar por Profissional / Tratamento" ng-model="filtroTratamento">
+                <span class=" input-group-btn"><button class="btn btn-default" id="searchButton" type="button"><i class="fa fa-search"></i></button></span>
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading" style="background-image:none">
+            Lista de Serviços
+            <div class="pull-right">
+                <div class="btn-group">
+                    <a href="" class="btn btn-info btn-xs" data-toggle="modal" data-target="#modShow" ng-click="limparCampos()">Novo Tratamento</a>
+                </div>
+            </div>
+        </div>
+        <div class="panel-body">
+            <div class="dataTable_wrapper">
+                <table class="table table-striped" id="tabelaTratamento">
+                    <thead>
+                        <tr>
+                            <th>NOME</th>
+                            <th>ATIVO</th>
+                            <th>VALOR</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="item in listaTratamento | filter: filtroTratamento">
+                            <td>{{item.Descricao}}</td>
+                            <td>
+                                <span ng-show="{{item.Ativo}}" class="glyphicon glyphicon-ok" style="margin-left:13px"></span>
+                            </td>
+                            <td>{{item.Valor | currency}}</td>
+                            <td>
+                                <input type="button" ng-click="getTratamentoByID(item.TratamentoId)" class="btn btn-info btn-xs" value="Informações" data-toggle="modal" data-target="#modShow" />
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!--MODAL CADASTRO-->
+<div class="container">
+    <div class="modal fade" id="modShow" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h3>Informações do Tratamento</h3>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-lg-12 formContent">
+                            <div class="panel panel-default">
+                                <div class="panel-body">
+                                    <div class="col-lg-12">
+                                        <form role="form" name="form">
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Descrição</label>
+                                                <div class="col-md-8 modalTratamento">
+                                                    <input type="text" class="form-control" name="Descricao" ng-model="servico.Descricao" required />
+                                                    <span style="color:red" ng-show="form.Descricao.$dirty && form.Descricao.$invalid">
+                                                        Descrição é Obrigatória!
+                                                    </span>
+                                                </div>
+
+                                                <label class="col-md-4 control-label">Profissional</label>
+                                                <div class="col-md-8 modalTratamento">
+                                                    <select class="form-control" ng-options="item.ProfissionalId as item.Nome for item in listaProfissionais" ng-model="servico.ProfissionalId" required>
+                                                        <option value="">Selecione um Profissional</option>
+                                                    </select>
+                                                </div>
+                                                <label class="col-md-4 control-label">Valor</label>
+                                                <div class="col-md-8 modalTratamento">
+                                                    <input type="number" class="form-control" name="Valor" ng-model="servico.Valor" required />
+                                                    <span style="color:red" ng-show="form.Valor.$dirty && form.Valor.$invalid">
+                                                        Valor é Obrigatório!
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <input type="submit" class="btn btn-success" ng-click="salvarDados(servico)" ng-model="servico" value="Salvar" ng-hide="servico.TratamentoId" ng-disabled="form.$invalid" />
+                    <input type="submit" class="btn btn-success" ng-click="salvarDados(servico)" ng-model="servico" value="Editar" ng-show="servico.TratamentoId" ng-disabled="form.$invalid" />
+                    <input type="submit" class="btn btn-danger" ng-click="bloquearTratamento(servico)" ng-model="servico" value="Bloquear" ng-show="servico.TratamentoId" />
+                    <input type="button" class="btn btn-default" value="Voltar" data-dismiss="modal" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--MODAL CADASTRO-->

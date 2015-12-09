@@ -1,0 +1,69 @@
+c:\users\aluno\documents\visual studio 2013\Projects\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+c:\users\aluno\documents\visual studio 2013\Projects\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+c:\users\aluno\documents\visual studio 2013\Projects\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb
+C:\Users\Thiago\Source\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\Thiago\Source\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\Thiago\Source\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Source\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+C:\Users\Thiago\Source\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb
+C:\Users\thiago.quartarolo\Desktop\AgendaFacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\thiago.quartarolo\Desktop\AgendaFacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\thiago.quartarolo\Desktop\AgendaFacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.csprojResolveAssemblyReference.cache
+C:\Users\thiago.quartarolo\Desktop\AgendaFacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+C:\Users\thiago.quartarolo\Desktop\AgendaFacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb
+C:\Users\aluno\Desktop\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\aluno\Desktop\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\aluno\Desktop\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+C:\Users\aluno\Desktop\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+C:\Users\Thiago Villaverde\Desktop\agendafacil-master\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb
+C:\Users\aluno\Source\Repos\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+C:\Users\Thiago\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+C:\Users\Thiago Villaverde\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb
+C:\Users\lievi\Documents\ProjetoAtual\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.csprojResolveAssemblyReference.cache
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.csprojResolveAssemblyReference.cache
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+C:\Users\thiago.quartarolo\Desktop\band\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+C:\Users\aluno\Documents\agendafacil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+C:\Users\aluno\Desktop\agenda\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.csprojResolveAssemblyReference.cache
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+C:\Users\thiago.quartarolo\Desktop\band\agenda facil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.csprojResolveAssemblyReference.cache
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+C:\Users\lievi\Documents\ProjetoAtual\seiQVaiDaMerda\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.dll
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Domain\bin\Debug\AgendaFacil.Domain.pdb
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.dll
+C:\Users\thiago.quartarolo\Desktop\band\Projetos\Agenda Facil\AgendaFacil.Project\AgendaFacil.Domain\obj\Debug\AgendaFacil.Domain.pdb

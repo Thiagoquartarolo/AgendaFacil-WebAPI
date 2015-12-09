@@ -1,0 +1,192 @@
+﻿<!doctype html>
+<html ng-app="app">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-language" content="pt-br" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Agenda Fácil | EP Projeto</title>
+    <link href="content/bootstrap-datetimepicker.css" rel="stylesheet" />
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <!--FAFA THEME-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <!--FAFA THEME-->
+    <!--Stilo Personalizado-->
+
+
+    <link href="content/css/navbar-vertical.css" rel="stylesheet" />
+    <link href="content/css/angular-chart.css" rel="stylesheet" />
+    <link href="content/css/angucomplete-alt.css" rel="stylesheet" />
+    <link href="content/css/index.css" rel="stylesheet" />
+    <link href="content/css/loading-bar.css" rel="stylesheet" />
+
+    <style>
+        .navbar-inverse .navbar-brand {
+            color: #f55567;
+            font-size: 13.5pt;
+        }
+
+        a:hover {
+            text-decoration: none;
+        }
+        .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
+            background-color: #cce;
+        }
+    </style>
+</head>
+<body>
+    <!--Menu Horizontal-->
+
+
+   
+    <div class="container-fluid main-container">
+        <!--Botoes Consultar Agenda - Novo Agendamento-->
+
+        <!--Menu Vertical-->
+
+
+        <!--NG-VIEW-->
+        <div ng-view></div>
+    </div>
+
+    <!--MODAL CADASTRO DE SERVIÇO-->
+    <form id="formCad">
+        <div class="modal fade modal-md-12 " id="modCadastroAgenda" role="dialog" ng-controller="AgendaCtrl">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h3>Agendar Serviço</h3>
+                    </div>
+                    <div class="modal-body col-md-12 ">
+                        <div class="well well-sm inner">
+
+                            <div angucomplete-alt id="ex1" selected-object="clienteSelecionado" placeholder="Pesquise clientes" maxlength="50" pause="100" local-data="listaClientes" search-fields="Nome,Email,Telefone" title-field="Nome" minlength="1" input-class="form-control form-control-small" match-class="highlight">
+                            </div>
+
+                            <hr />
+                            <div id="SelecionaServico" style="display:none">
+                                <h4>Pesquise o serviço a ser realizado</h4>
+                                <div angucomplete-alt id="ex1" selected-object="servicoSelecionado" placeholder="Pesquise serviços" maxlength="50" pause="100" local-data="listaServicos" search-fields="Descricao" title-field="Descricao" minlength="1" input-class="form-control form-control-small" match-class="highlight">
+                                </div>
+                                <hr />
+                            </div>
+                           
+                            <select class="form-control" style="display:none; margin-top:15px; margin-bottom:15px;" id="selectProfissionais" ng-options="item.ProfissionalId as item.Nome for item in listaProfissionais" ng-model="agendamento.ProfissionalId">
+                                <option value="">Selecione um profissional</option>
+                            </select>
+
+                            <div class="ocultarHorario" style="display:none">
+
+                                <h4>Selecione a data e horario para o agendamento</h4>
+                                <div class='col-md-5'>
+                                    Início:
+                                    <div class="form-group">
+                                        <div class='input-group date' id='datetimepicker6' ng-model="agendamento.datetimepicker6">
+                                            <input type='text' class="form-control" />
+                                            <span class="input-group-addon">
+                                                <span class="glyphicon glyphicon-calendar"></span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class='col-md-5'>
+                                    Término:
+                                    <div class="form-group">
+                                        <div class='input-group date' id='datetimepicker7' ng-model="agendamento.dataTermino">
+                                            <input type='text' class="form-control" />
+                                            <span class="input-group-addon">
+                                                <span class="glyphicon glyphicon-calendar"></span>
+                                            </span>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="row">
+
+                                    <div class="col-md-12">
+                                        <hr />
+                                        <div class="pull-right">
+                                            <input type="button" class="btn btn-success" ng-click="agendar(agendamento)" ng-model="agendamento" value="Agendar" />
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+    <!--MODAL CADASTRO DE SERVIÇO-->
+
+
+    <!--SCRIPTS-->
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.8/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular-route.min.js"></script>
+    <script src="content/js/angular/Chart.js"></script>
+    <script src="//angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.11.0.js"></script>
+    <script src="content/js/angular/angular-chart.js"></script>
+    <script src="content/js/angular/dirPagination.js"></script>
+    <script src="content/js/angular/loading-bar.js"></script>
+    <script src="content/js/angular/angucomplete-alt.js"></script>
+    <script src="Scripts/AlertMsg.js"></script>
+    <script src="content/js/angular/angular-locale_pt-br.js" type="text/javascript"></script>
+    <script src="content/js/navbar-vertical.js"></script>
+    <script src="Scripts/moment.js"></script>
+    <script src="Scripts/moment-with-locales.js"></script>
+    <script src="Scripts/bootstrap-datetimepicker.js"></script>
+
+    <!--App-->
+    <script src="app/app.js"></script>
+    <script src="app/config.js"></script>
+    
+    <!--Services-->
+    <script src="app/Tratamento/TratamentoServices.js"></script>
+    <script src="app/Profissional/profissionalServices.js"></script>
+    <script src="app/Cliente/clienteService.js"></script>
+    <script src="app/Agenda/agendaService.js"></script>
+    <script src="app/Email/emailServices.js"></script>
+
+    <!--Controllers-->
+    <script src="app/Home/HomeController.js"></script>
+    <script src="app/Agenda/AgendaController.js"></script>
+    <script src="app/Cliente/ClienteController.js"></script>
+    <script src="app/Profissional/ProfissionalController.js"></script>
+    <script src="app/Tratamento/TratamentoController.js"></script>
+    <script src="app/Login/loginController.js"></script>
+    <script src="app/Email/emailController.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ngStorage/0.3.6/ngStorage.min.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            $('#selectProfissionais').change(function () {
+                $('.ocultarHorario').fadeIn();
+            });
+
+
+            $('#datetimepicker6').datetimepicker({
+                format: 'DD/MM/YYYY, H:mm',
+            });
+
+            $('#datetimepicker7').datetimepicker({
+                format: 'H:mm',
+                useCurrent: false 
+            });
+
+
+        });
+    </script>
+</body>
+</html>

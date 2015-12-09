@@ -1,0 +1,26 @@
+﻿<style>
+    @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700);
+</style>
+<div class="container sidebar col-md-3 " style="margin-bottom:18px;width:252px;">
+    <div class="panel panel-default" style="margin-left:10px">
+        <div class="panel-heading" style="background-image: none">
+            Menu
+        </div>
+        <div class="panel-body">
+            <ul class="nav nav-pills nav-stacked">
+                <li ng-class="{active3: activetab == '/'}" class="seila"><a href="#/home" class="seila"><span class="fa fa-angle-double-right text-primary"></span> Dashboard</a></li>
+                <li ng-class="{active3: activetab == '/profissionais'}"><a href="#/profissionais" class="seila"><span class="fa fa-angle-double-right text-primary"></span> Profissionais</a></li>
+                <li ng-class="{active3: activetab == '/cliente'}" ng-controller="ClienteCtrl"><a href="#/cliente" ng-click="carregar()" class="seila"><span class="fa fa-angle-double-right text-primary"></span> Clientes</a></li>
+                <li ng-class="{active3: activetab == '/servicos'}"><a href="#/tratamento" class="seila"><span class="fa fa-angle-double-right text-primary"></span> Serviços</a></li>
+              
+                <li ng-class="{active3: activetab == '/email'}"><a href="#/email" class="seila"><span class="fa fa-angle-double-right text-primary"></span> Email</a></li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+
+
